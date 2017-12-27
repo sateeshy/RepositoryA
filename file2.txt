@@ -1,0 +1,3 @@
+hello buddies, how are you?
+<EOF> file2.txt
+
